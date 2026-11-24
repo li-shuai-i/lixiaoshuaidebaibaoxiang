@@ -2,7 +2,7 @@
 
 **Point it at a CSV. Get the profile in a second. Nothing leaves your machine.**
 
-[![CI](https://github.com/USERNAME/csvscope/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/csvscope/actions/workflows/ci.yml)
+[![CI](https://github.com/li-shuai-i/lixiaoshuaidebaibaoxiang/actions/workflows/ci.yml/badge.svg)](https://github.com/li-shuai-i/lixiaoshuaidebaibaoxiang/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.9%2B-3776ab)](https://www.python.org/)
 [![Dependencies](https://img.shields.io/badge/dependencies-zero-0d8a5f)](#quick-start)
 [![License](https://img.shields.io/badge/license-MIT-4f46e5)](LICENSE)
@@ -44,7 +44,7 @@ install and nothing uploaded.
 ## Quick start
 
 ```bash
-git clone https://github.com/USERNAME/csvscope.git
+git clone https://github.com/li-shuai-i/lixiaoshuaidebaibaoxiang.git
 cd csvscope
 python -m csvscope
 ```
@@ -150,7 +150,7 @@ Ideas and pull requests are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 全程不用写 SQL。
 
 ```bash
-git clone https://github.com/USERNAME/csvscope.git
+git clone https://github.com/li-shuai-i/lixiaoshuaidebaibaoxiang.git
 cd csvscope
 python -m csvscope          # 自动打开 http://127.0.0.1:8787/
 ```

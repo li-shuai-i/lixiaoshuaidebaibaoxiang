@@ -24,9 +24,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/USERNAME/csvscope"
-Source = "https://github.com/USERNAME/csvscope"
-Issues = "https://github.com/USERNAME/csvscope/issues"
+Homepage = "https://github.com/li-shuai-i/lixiaoshuaidebaibaoxiang"
+Source = "https://github.com/li-shuai-i/lixiaoshuaidebaibaoxiang"
+Issues = "https://github.com/li-shuai-i/lixiaoshuaidebaibaoxiang/issues"
 
 [project.scripts]
 csvscope = "csvscope.cli:main"

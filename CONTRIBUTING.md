@@ -31,7 +31,7 @@ aggregation is usually fine — adding a new architectural layer usually is not.
 ## Local workflow
 
 ```bash
-git clone https://github.com/USERNAME/csvscope.git
+git clone https://github.com/li-shuai-i/lixiaoshuaidebaibaoxiang.git
 cd csvscope
 python -m csvscope --verbose     # http://127.0.0.1:8787/?sample
 ```
