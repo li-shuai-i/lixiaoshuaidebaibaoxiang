@@ -15,11 +15,19 @@ jobs:
       matrix:
         os: [ubuntu-latest, windows-latest, macos-latest]
         python-version: ["3.9", "3.11", "3.13"]
+        exclude:
+          # ubuntu-latest is 26.04, which no longer ships Python 3.9.
+          - os: ubuntu-latest
+            python-version: "3.9"
+        include:
+          # Keep 3.9 covered on the last Ubuntu image that still provides it.
+          - os: ubuntu-22.04
+            python-version: "3.9"
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: ${{ matrix.python-version }}
 
