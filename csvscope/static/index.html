@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>csvscope — local-first CSV explorer</title>
+<meta name="description" content="Drop a CSV in your browser and profile it instantly. Nothing is uploaded.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='6' fill='%234f46e5'/%3E%3Cg fill='white'%3E%3Crect x='5' y='6' width='6' height='5' rx='1.2'/%3E%3Crect x='13' y='6' width='6' height='5' rx='1.2' opacity='.55'/%3E%3Crect x='5' y='13' width='6' height='5' rx='1.2' opacity='.55'/%3E%3Crect x='13' y='13' width='6' height='5' rx='1.2'/%3E%3C/g%3E%3C/svg%3E">
+<link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <svg viewBox="0 0 24 24" aria-hidden="true" class="logo">
+      <rect width="24" height="24" rx="6" fill="currentColor"/>
+      <g fill="#fff">
+        <rect x="5" y="6" width="6" height="5" rx="1.2"/>
+        <rect x="13" y="6" width="6" height="5" rx="1.2" opacity=".5"/>
+        <rect x="5" y="13" width="6" height="5" rx="1.2" opacity=".5"/>
+        <rect x="13" y="13" width="6" height="5" rx="1.2"/>
+      </g>
+    </svg>
+    <span>csvscope</span>
+  </div>
+  <div class="topbar-meta" id="meta"></div>
+  <div class="topbar-actions">
+    <span class="privacy">100% local · nothing uploaded</span>
+    <button class="btn btn-ghost" id="btnLoad" hidden>Load another file</button>
+  </div>
+</header>
+
+<!-- Empty state --------------------------------------------------------- -->
+<section class="empty" id="empty">
+  <div class="empty-inner">
+    <h1>Look inside any CSV.</h1>
+    <p class="lede">
+      Drop a file and get its profile in a second — column types, missing values,
+      distributions, top values. Then filter, sort and group without writing SQL.
+    </p>
+    <label class="dropzone" id="dropzone" for="fileInput">
+      <svg viewBox="0 0 24 24" aria-hidden="true">
+        <path d="M12 16V5m0 0L7.5 9.5M12 5l4.5 4.5M4 15v3a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-3"
+              fill="none" stroke="currentColor" stroke-width="1.6"
+              stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <strong>Drop a CSV here</strong>
+      <span>or click to browse · .csv / .tsv / .txt up to 64 MB</span>
+    </label>
+    <button class="btn btn-link" id="btnSample">or explore the sample dataset →</button>
+  </div>
+  <ul class="feature-grid">
+    <li><b>Infer types</b><span>int, float, date, bool, text — with thousands and currency formats</span></li>
+    <li><b>Profile instantly</b><span>missing, distinct, min/max/mean/median, histogram, top values</span></li>
+    <li><b>Query without SQL</b><span>composable filters, multi-column sort, group-by aggregates</span></li>
+  </ul>
+</section>
+
+<!-- Workspace ----------------------------------------------------------- -->
+<main class="workspace" id="workspace" hidden>
+  <aside class="sidebar">
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Columns</h2>
+        <span class="count" id="colCount"></span>
+      </div>
+      <ul class="col-list" id="colList"></ul>
+    </section>
+    <section class="panel profile" id="profile"></section>
+  </aside>
+
+  <section class="content">
+    <div class="toolbar">
+      <div class="filter-builder">
+        <select id="fColumn" class="ctl" aria-label="Filter column"></select>
+        <select id="fOp" class="ctl" aria-label="Filter operator"></select>
+        <input id="fValue" class="ctl" type="text" placeholder="value" aria-label="Filter value">
+        <button class="btn btn-primary" id="fAdd">Add filter</button>
+      </div>
+      <div class="group-builder">
+        <span class="lab">Group by</span>
+        <select id="gColumn" class="ctl" aria-label="Group by column"></select>
+        <select id="gMetric" class="ctl" aria-label="Metric column"></select>
+        <select id="gAgg" class="ctl" aria-label="Aggregation">
+          <option value="count">count of rows</option>
+          <option value="sum">sum of</option>
+          <option value="avg">average of</option>
+          <option value="median">median of</option>
+          <option value="min">min of</option>
+          <option value="max">max of</option>
+          <option value="distinct">distinct of</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="chips" id="chips" hidden></div>
+
+    <section class="card chart-card" id="chartCard" hidden>
+      <div class="card-head">
+        <h2 id="chartTitle">Distribution</h2>
+        <span class="hint" id="chartHint">click a bar to filter</span>
+      </div>
+      <div class="bars" id="chart"></div>
+    </section>
+
+    <section class="card table-card">
+      <div class="card-head">
+        <h2>Rows</h2>
+        <span class="hint" id="rowHint"></span>
+      </div>
+      <div class="table-scroll">
+        <table id="table">
+          <thead></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div class="pager">
+        <div class="pager-info" id="pagerInfo"></div>
+        <div class="pager-controls">
+          <select id="pageSize" class="ctl ctl-sm" aria-label="Rows per page">
+            <option>25</option><option selected>50</option>
+            <option>100</option><option>250</option>
+          </select>
+          <button class="btn btn-ghost" id="prev">← Prev</button>
+          <span class="page-label" id="pageLabel"></span>
+          <button class="btn btn-ghost" id="next">Next →</button>
+        </div>
+      </div>
+    </section>
+  </section>
+</main>
+
+<div class="drop-overlay" id="dropOverlay" hidden>
+  <div>Drop to profile</div>
+</div>
+<div class="toast" id="toast" hidden></div>
+<div class="busy" id="busy" hidden><div class="spinner"></div><span id="busyText">Profiling…</span></div>
+
+<input id="fileInput" type="file" accept=".csv,.tsv,.txt,text/csv,text/plain" hidden>
+
+<script src="/assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,341 @@
+order_id,order_date,customer,country,channel,category,product,units,unit_price,discount,revenue,cost,profit,payment_method,status,rating
+SO-2026-0279,2026-01-02,Customer 049,Australia,Partner,Outdoor,Trekking Poles,4,278.34,0,1113.36,768.69,344.67,Bank Transfer,pending,3.5
+SO-2026-0163,2026-01-03,Customer 019,中国,Web,Audio,Studio Monitor Pair,4,3328.62,0.15,11317.31,7597.45,3719.86,Alipay,shipped,5.0
+SO-2026-0175,2026-01-03,Customer 031,Australia,Web,Office,Ergonomic Chair,3,2194.48,0,6583.44,4272.59,2310.85,Credit Card,refunded,4.5
+SO-2026-0287,2026-01-03,Customer 009,中国,Web,Office,Ergonomic Chair,2,2069.22,0,4138.44,2548.71,1589.73,Alipay,shipped,4.5
+SO-2026-0090,2026-01-04,Customer 038,United Kingdom,Web,Electronics,"4K Monitor 27""",1,1852.27,0.1,1667.04,1037.9,629.14,Alipay,completed,5.0
+SO-2026-0133,2026-01-04,Customer 034,India,Web,Home,Desk Lamp,1,171.02,0.1,153.92,96.17,57.75,WeChat Pay,completed,3.0
+SO-2026-0322,2026-01-05,Customer 039,United States,Retail,Outdoor,Trekking Poles,1,251.61,0.05,239.03,168.94,70.09,PayPal,completed,3.0
+SO-2026-0336,2026-01-05,Customer 034,Brazil,Partner,Outdoor,Cooler Box 20L,3,443.39,0.05,1263.66,783.95,479.71,Bank Transfer,pending,3.5
+SO-2026-0057,2026-01-09,Customer 031,中国,Web,Office,Whiteboard 90cm,6,445.57,0,2673.42,1520.29,1153.13,PayPal,completed,4.0
+SO-2026-0158,2026-01-09,Customer 043,Brazil,Partner,Home,Robot Vacuum,6,2684.38,0,16106.28,10277.07,5829.21,WeChat Pay,pending,4.0
+SO-2026-0151,2026-01-10,Customer 022,Australia,Mobile App,Electronics,Noise-Cancelling Headphones,1,1312.82,0,1312.82,772.04,540.78,WeChat Pay,refunded,5.0
+SO-2026-0307,2026-01-11,Customer 054,United Kingdom,Retail,Home,Coffee Grinder,1,339.08,0.2,271.26,166.92,104.34,Bank Transfer,completed,4.5
+SO-2026-0109,2026-01-12,Customer 038,Australia,Retail,Office,Ergonomic Chair,1,2143.38,0,2143.38,1347.0,796.38,Alipay,shipped,
+SO-2026-0247,2026-01-14,Customer 007,India,Mobile App,Office,Standing Desk,3,3421.51,0.05,9751.3,6759.06,2992.24,Credit Card,pending,5.0
+SO-2026-0035,2026-01-15,Customer 039,Germany,Mobile App,Electronics,Mechanical Keyboard,2,564.63,0.2,903.41,516.07,387.34,PayPal,completed,4.0
+SO-2026-0187,2026-01-15,Customer 057,India,Partner,Audio,Podcast Mic,2,743.8,0.15,1264.46,887.7,376.76,WeChat Pay,pending,5.0
+SO-2026-0211,2026-01-17,Customer 022,United Kingdom,Web,Outdoor,Cooler Box 20L,4,435.62,0.05,1655.36,1067.78,587.58,Credit Card,refunded,3.0
+SO-2026-0207,2026-01-18,Customer 049,中国,Web,Home,Coffee Grinder,2,334.44,0,668.88,392.74,276.14,Credit Card,completed,4.0
+SO-2026-0052,2026-01-19,Customer 044,Germany,Mobile App,Home,Desk Lamp,6,169.99,0,1019.94,668.02,351.92,Alipay,shipped,
+SO-2026-0290,2026-01-19,Customer 044,Germany,Mobile App,Office,Ergonomic Chair,1,2312.57,0.2,1850.06,1283.79,566.27,Alipay,refunded,3.5
+SO-2026-0321,2026-01-19,Customer 034,United Kingdom,Partner,Outdoor,Trekking Poles,4,243.1,0,972.4,546.46,425.94,PayPal,completed,4.5
+SO-2026-0076,2026-01-24,Customer 055,Brazil,Retail,Electronics,"4K Monitor 27""",2,1851.18,0.1,3332.12,2268.46,1063.66,WeChat Pay,completed,4.5
+SO-2026-0142,2026-01-25,Customer 034,United Kingdom,Retail,Home,Desk Lamp,4,154.56,0.2,494.59,327.72,166.87,Alipay,refunded,4.0
+SO-2026-0197,2026-01-26,Customer 042,Germany,Partner,Audio,Studio Monitor Pair,1,3287.63,0,3287.63,1941.7,1345.93,Bank Transfer,completed,4.5
+SO-2026-0276,2026-01-27,Customer 043,India,Mobile App,Home,Coffee Grinder,1,306.2,0.1,275.58,193.47,82.11,Bank Transfer,completed,5.0
+SO-2026-0161,2026-01-29,Customer 042,Australia,Partner,Outdoor,Camping Tent 4P,2,840.09,0.2,1344.14,786.55,557.59,PayPal,completed,4.0
+SO-2026-0246,2026-01-29,Customer 057,United Kingdom,Partner,Home,Desk Lamp,2,155.14,0.15,263.74,169.92,93.82,Alipay,refunded,4.5
+SO-2026-0016,2026-01-31,Customer 020,Japan,Partner,Audio,Portable Speaker,2,408.56,0.15,694.55,471.47,223.08,Bank Transfer,completed,4.5
+SO-2026-0009,2026-02-01,Customer 047,Japan,Retail,Electronics,Mechanical Keyboard,6,578.34,0.05,3296.54,1958.55,1337.99,Alipay,completed,3.5
+SO-2026-0238,2026-02-03,Customer 055,Japan,Retail,Home,Desk Lamp,6,165.78,0,994.68,608.76,385.92,Alipay,pending,3.0
+SO-2026-0105,2026-02-04,Customer 030,Brazil,Mobile App,Audio,Podcast Mic,1,759.35,0,759.35,415.7,343.65,Alipay,completed,5.0
+SO-2026-0137,2026-02-04,Customer 042,Japan,Web,Home,Desk Lamp,6,147.8,0.1,798.12,505.34,292.78,Bank Transfer,completed,4.0
+SO-2026-0285,2026-02-04,Customer 045,中国,Web,Outdoor,Cooler Box 20L,6,446.57,0.1,2411.48,1370.48,1041.0,PayPal,shipped,4.0
+SO-2026-0053,2026-02-06,Customer 039,India,Retail,Office,Standing Desk,1,3068.04,0.15,2607.83,1755.29,852.54,PayPal,shipped,4.5
+SO-2026-0329,2026-02-07,Customer 001,Japan,Retail,Electronics,Noise-Cancelling Headphones,1,1356.36,0.15,1152.91,752.54,400.37,Alipay,shipped,4.5
+SO-2026-0173,2026-02-08,Customer 011,Brazil,Mobile App,Home,Air Purifier,6,1477.81,0,8866.86,5795.79,3071.07,Bank Transfer,pending,5.0
+SO-2026-0006,2026-02-09,Customer 037,United States,Web,Office,Standing Desk,4,3240.28,0,12961.12,7875.67,5085.45,WeChat Pay,completed,4.0
+SO-2026-0036,2026-02-09,Customer 041,Japan,Partner,Office,Ergonomic Chair,2,2322.66,0.05,4413.05,2323.85,2089.2,WeChat Pay,completed,
+SO-2026-0078,2026-02-09,Customer 047,United States,Partner,Office,Standing Desk,6,3303.49,0,19820.94,10361.79,9459.15,Alipay,pending,4.0
+SO-2026-0315,2026-02-09,Customer 012,United States,Web,Electronics,Mechanical Keyboard,6,572.54,0.1,3091.72,2036.18,1055.54,Bank Transfer,shipped,3.5
+SO-2026-0027,2026-02-10,Customer 003,India,Retail,Office,Ergonomic Chair,1,2316.73,0.2,1853.38,1108.43,744.95,Alipay,pending,4.0
+SO-2026-0159,2026-02-10,Customer 029,United States,Mobile App,Audio,Studio Monitor Pair,1,3124.28,0.05,2968.07,1717.91,1250.16,Bank Transfer,completed,5.0
+SO-2026-0049,2026-02-11,Customer 030,Brazil,Retail,Outdoor,Cooler Box 20L,1,418.69,0.1,376.82,256.45,120.37,WeChat Pay,shipped,4.5
+SO-2026-0064,2026-02-12,Customer 036,United States,Retail,Office,Whiteboard 90cm,1,424.16,0,424.16,245.59,178.57,Credit Card,pending,3.5
+SO-2026-0236,2026-02-12,Customer 046,Germany,Web,Electronics,Noise-Cancelling Headphones,4,1351.95,0,5407.8,3618.87,1788.93,Bank Transfer,refunded,4.0
+SO-2026-0200,2026-02-13,Customer 060,中国,Web,Audio,Studio Monitor Pair,1,3438.02,0.2,2750.42,1597.9,1152.52,Bank Transfer,completed,4.5
+SO-2026-0117,2026-02-15,Customer 039,United States,Mobile App,Electronics,Noise-Cancelling Headphones,1,1252.89,0.05,1190.25,709.79,480.46,WeChat Pay,refunded,
+SO-2026-0284,2026-02-16,Customer 036,Australia,Mobile App,Office,Ergonomic Chair,1,2267.6,0,2267.6,1399.11,868.49,Alipay,completed,3.0
+SO-2026-0130,2026-02-17,Customer 040,Germany,Mobile App,Office,Standing Desk,2,3385.15,0.05,6431.78,3617.83,2813.95,Bank Transfer,pending,4.5
+SO-2026-0226,2026-02-17,Customer 032,United States,Mobile App,Office,Ergonomic Chair,1,2271.33,0,2271.33,1197.37,1073.96,Bank Transfer,pending,4.0
+SO-2026-0232,2026-02-18,Customer 040,Japan,Web,Electronics,"4K Monitor 27""",2,2007.33,0,4014.66,2676.56,1338.1,Bank Transfer,completed,4.5
+SO-2026-0104,2026-02-20,Customer 029,Japan,Partner,Audio,Studio Monitor Pair,3,3503.41,0.15,8933.7,6171.98,2761.72,PayPal,refunded,5.0
+SO-2026-0313,2026-02-20,Customer 037,Australia,Retail,Outdoor,Camping Tent 4P,2,841.84,0.15,1431.13,787.4,643.73,PayPal,completed,5.0
+SO-2026-0214,2026-02-22,Customer 037,Japan,Web,Office,Whiteboard 90cm,2,456.84,0.1,822.31,560.57,261.74,PayPal,completed,3.5
+SO-2026-0044,2026-02-23,Customer 007,United Kingdom,Mobile App,Electronics,Noise-Cancelling Headphones,2,1393.34,0,2786.68,1780.3,1006.38,Bank Transfer,completed,5.0
+SO-2026-0069,2026-02-23,Customer 019,United Kingdom,Partner,Electronics,"4K Monitor 27""",1,1770.14,0,1770.14,1096.69,673.45,Alipay,pending,4.5
+SO-2026-0096,2026-03-01,Customer 039,Brazil,Mobile App,Home,Air Purifier,6,1609.96,0,9659.76,6612.98,3046.78,Alipay,completed,3.5
+SO-2026-0268,2026-03-02,Customer 011,United States,Partner,Outdoor,Trekking Poles,3,257.78,0,773.34,463.66,309.68,Bank Transfer,refunded,4.0
+SO-2026-0139,2026-03-03,Customer 016,Australia,Retail,Outdoor,Camping Tent 4P,1,935.47,0.2,748.38,506.51,241.87,WeChat Pay,refunded,3.0
+SO-2026-0074,2026-03-06,Customer 058,India,Web,Audio,Podcast Mic,6,815.97,0,4895.82,3162.57,1733.25,Credit Card,shipped,4.5
+SO-2026-0286,2026-03-06,Customer 049,India,Mobile App,Home,Desk Lamp,1,167.84,0.2,134.27,72.98,61.29,PayPal,completed,4.5
+SO-2026-0055,2026-03-07,Customer 012,United Kingdom,Partner,Electronics,Mechanical Keyboard,6,579.66,0.05,3304.06,2197.32,1106.74,WeChat Pay,shipped,5.0
+SO-2026-0309,2026-03-07,Customer 044,Japan,Mobile App,Office,Whiteboard 90cm,2,406.4,0.2,650.24,346.85,303.39,WeChat Pay,completed,4.5
+SO-2026-0034,2026-03-09,Customer 003,United States,Retail,Home,Air Purifier,3,1503.68,0.2,3608.83,2064.46,1544.37,PayPal,completed,4.5
+SO-2026-0061,2026-03-09,Customer 018,Japan,Partner,Electronics,"4K Monitor 27""",1,2029.46,0.2,1623.57,1059.13,564.44,Credit Card,completed,
+SO-2026-0108,2026-03-09,Customer 002,United Kingdom,Mobile App,Outdoor,Trekking Poles,2,269.71,0,539.42,346.48,192.94,Credit Card,completed,4.0
+SO-2026-0231,2026-03-09,Customer 003,Japan,Mobile App,Audio,Podcast Mic,1,735.84,0,735.84,455.65,280.19,Bank Transfer,pending,4.0
+SO-2026-0272,2026-03-09,Customer 056,Japan,Retail,Electronics,"4K Monitor 27""",6,1752.26,0,10513.56,7398.78,3114.78,Alipay,completed,3.5
+SO-2026-0301,2026-03-10,Customer 014,中国,Partner,Outdoor,Trekking Poles,1,250.6,0,250.6,163.8,86.8,PayPal,completed,4.0
+SO-2026-0337,2026-03-11,Customer 011,India,Mobile App,Office,Standing Desk,6,3210.19,0,19261.14,13325.87,5935.27,PayPal,completed,4.0
+SO-2026-0054,2026-03-12,Customer 035,United States,Web,Outdoor,Trekking Poles,1,270.2,0,270.2,171.75,98.45,Bank Transfer,completed,4.5
+SO-2026-0150,2026-03-12,Customer 049,India,Partner,Office,Standing Desk,4,3271.67,0.15,11123.68,6072.72,5050.96,Alipay,completed,5.0
+SO-2026-0004,2026-03-13,Customer 050,Australia,Retail,Audio,Podcast Mic,1,773.59,0,773.59,537.92,235.67,WeChat Pay,shipped,4.5
+SO-2026-0210,2026-03-14,Customer 037,Germany,Partner,Electronics,Mechanical Keyboard,2,592.68,0.15,1007.56,539.41,468.15,Alipay,completed,3.5
+SO-2026-0331,2026-03-14,Customer 027,Australia,Partner,Audio,Portable Speaker,4,369.4,0,1477.6,801.09,676.51,Bank Transfer,shipped,5.0
+SO-2026-0202,2026-03-15,Customer 060,Germany,Retail,Audio,Studio Monitor Pair,1,3437.11,0.1,3093.4,2080.75,1012.65,Alipay,completed,4.0
+SO-2026-0172,2026-03-17,Customer 045,中国,Partner,Home,Coffee Grinder,1,352.3,0.1,317.07,166.87,150.2,WeChat Pay,completed,3.0
+SO-2026-0045,2026-03-18,Customer 060,Australia,Retail,Electronics,Mechanical Keyboard,4,629.49,0.15,2140.27,1276.54,863.73,Credit Card,completed,3.5
+SO-2026-0167,2026-03-20,Customer 057,Brazil,Web,Home,Desk Lamp,1,147.95,0,147.95,89.11,58.84,Credit Card,shipped,4.5
+SO-2026-0092,2026-03-23,Customer 012,Brazil,Web,Audio,Portable Speaker,1,406.53,0,406.53,213.33,193.2,Alipay,pending,4.0
+SO-2026-0021,2026-03-24,Customer 009,Germany,Partner,Electronics,Noise-Cancelling Headphones,4,1260.14,0,5040.56,3520.46,1520.1,PayPal,completed,4.0
+SO-2026-0235,2026-03-24,Customer 011,United Kingdom,Web,Audio,Portable Speaker,1,389.6,0.2,311.68,196.41,115.27,Bank Transfer,completed,4.0
+SO-2026-0116,2026-03-25,Customer 055,Japan,Web,Outdoor,Camping Tent 4P,1,943.79,0.1,849.41,524.71,324.7,PayPal,completed,5.0
+SO-2026-0145,2026-03-26,Customer 040,Brazil,Mobile App,Outdoor,Camping Tent 4P,3,944.17,0.05,2690.88,1526.02,1164.86,PayPal,completed,5.0
+SO-2026-0031,2026-03-27,Customer 033,United States,Partner,Outdoor,Cooler Box 20L,6,458.19,0,2749.14,1837.94,911.2,Credit Card,refunded,4.0
+SO-2026-0251,2026-03-27,Customer 051,India,Mobile App,Office,Ergonomic Chair,1,2348.73,0.15,1996.42,1346.8,649.62,WeChat Pay,completed,4.0
+SO-2026-0296,2026-03-27,Customer 032,中国,Partner,Outdoor,Camping Tent 4P,1,837.46,0,837.46,547.96,289.5,Credit Card,completed,4.0
+SO-2026-0324,2026-03-27,Customer 055,中国,Mobile App,Home,Desk Lamp,1,162.58,0.05,154.45,106.86,47.59,PayPal,completed,3.0
+SO-2026-0303,2026-03-29,Customer 003,India,Partner,Home,Coffee Grinder,3,340.32,0,1020.96,543.06,477.9,PayPal,completed,
+SO-2026-0001,2026-03-30,Customer 028,Japan,Web,Electronics,Noise-Cancelling Headphones,1,1377.46,0.05,1308.59,802.2,506.39,Credit Card,pending,4.0
+SO-2026-0032,2026-03-30,Customer 058,Germany,Web,Electronics,Mechanical Keyboard,3,560.81,0,1682.43,985.89,696.54,WeChat Pay,pending,4.0
+SO-2026-0014,2026-03-31,Customer 048,India,Partner,Audio,Studio Monitor Pair,1,3126.35,0.05,2970.03,2033.65,936.38,Alipay,pending,3.5
+SO-2026-0143,2026-03-31,Customer 030,Brazil,Retail,Home,Coffee Grinder,1,351.94,0,351.94,236.13,115.81,Credit Card,refunded,4.5
+SO-2026-0122,2026-04-01,Customer 031,Brazil,Web,Outdoor,Camping Tent 4P,3,965.04,0.1,2605.61,1656.32,949.29,WeChat Pay,shipped,4.0
+SO-2026-0192,2026-04-04,Customer 033,Brazil,Web,Electronics,Mechanical Keyboard,2,603.51,0.05,1146.67,648.09,498.58,WeChat Pay,completed,4.5
+SO-2026-0152,2026-04-05,Customer 033,Brazil,Partner,Audio,Portable Speaker,1,415.52,0,415.52,217.61,197.91,Bank Transfer,completed,3.5
+SO-2026-0253,2026-04-06,Customer 030,Australia,Partner,Office,Ergonomic Chair,2,2314.06,0.05,4396.71,3104.79,1291.92,WeChat Pay,completed,4.5
+SO-2026-0249,2026-04-07,Customer 025,Germany,Web,Home,Robot Vacuum,2,2514.35,0,5028.7,2666.97,2361.73,WeChat Pay,completed,4.0
+SO-2026-0278,2026-04-07,Customer 028,India,Retail,Home,Air Purifier,1,1511.94,0,1511.94,848.44,663.5,WeChat Pay,refunded,3.0
+SO-2026-0300,2026-04-07,Customer 058,Germany,Web,Electronics,Noise-Cancelling Headphones,1,1381.73,0.2,1105.38,704.21,401.17,PayPal,shipped,3.5
+SO-2026-0219,2026-04-09,Customer 006,Germany,Mobile App,Audio,Podcast Mic,2,823.4,0,1646.8,1031.65,615.15,Bank Transfer,completed,4.5
+SO-2026-0097,2026-04-11,Customer 040,Australia,Web,Home,Desk Lamp,1,161.21,0,161.21,88.53,72.68,PayPal,completed,3.5
+SO-2026-0183,2026-04-11,Customer 035,Germany,Retail,Home,Air Purifier,4,1434.05,0,5736.2,3464.24,2271.96,Bank Transfer,pending,3.0
+SO-2026-0270,2026-04-12,Customer 023,Germany,Retail,Outdoor,Trekking Poles,1,262.53,0.2,210.02,134.18,75.84,Alipay,refunded,4.5
+SO-2026-0304,2026-04-12,Customer 039,中国,Web,Office,Ergonomic Chair,1,2347.08,0.1,2112.37,1444.05,668.32,PayPal,completed,3.0
+SO-2026-0308,2026-04-12,Customer 033,United States,Mobile App,Electronics,Mechanical Keyboard,6,578.3,0.2,2775.84,1846.37,929.47,Bank Transfer,completed,3.0
+SO-2026-0293,2026-04-13,Customer 040,United Kingdom,Mobile App,Outdoor,Cooler Box 20L,1,436.9,0.2,349.52,243.19,106.33,WeChat Pay,pending,5.0
+SO-2026-0317,2026-04-14,Customer 014,中国,Web,Outdoor,Trekking Poles,1,240.23,0.05,228.22,130.78,97.44,Bank Transfer,completed,5.0
+SO-2026-0340,2026-04-14,Customer 050,Japan,Partner,Home,Desk Lamp,2,168.72,0.05,320.57,177.14,143.43,WeChat Pay,completed,5.0
+SO-2026-0087,2026-04-15,Customer 045,United Kingdom,Retail,Electronics,Noise-Cancelling Headphones,1,1250.76,0,1250.76,666.2,584.56,Bank Transfer,refunded,3.5
+SO-2026-0327,2026-04-16,Customer 015,India,Partner,Home,Coffee Grinder,1,324.81,0.1,292.33,160.29,132.04,Bank Transfer,completed,3.5
+SO-2026-0040,2026-04-17,Customer 026,United Kingdom,Web,Home,Coffee Grinder,1,329.93,0.05,313.43,208.52,104.91,WeChat Pay,completed,4.5
+SO-2026-0126,2026-04-18,Customer 022,中国,Partner,Electronics,USB-C Hub,2,188.42,0,376.84,227.17,149.67,Credit Card,pending,4.0
+SO-2026-0250,2026-04-18,Customer 015,Japan,Web,Audio,Portable Speaker,3,430.4,0.2,1032.96,559.59,473.37,WeChat Pay,refunded,4.5
+SO-2026-0220,2026-04-22,Customer 004,India,Mobile App,Home,Coffee Grinder,1,328.35,0.15,279.1,168.07,111.03,Bank Transfer,completed,4.5
+SO-2026-0326,2026-04-22,Customer 017,Brazil,Retail,Audio,Podcast Mic,4,755.91,0,3023.64,2038.06,985.58,Alipay,completed,4.0
+SO-2026-0180,2026-04-23,Customer 004,India,Retail,Electronics,Noise-Cancelling Headphones,4,1317.0,0.2,4214.4,2265.9,1948.5,Credit Card,refunded,4.0
+SO-2026-0245,2026-04-23,Customer 048,India,Partner,Outdoor,Trekking Poles,4,252.57,0.15,858.74,500.09,358.65,Bank Transfer,pending,4.0
+SO-2026-0123,2026-04-24,Customer 047,中国,Partner,Audio,Podcast Mic,2,842.93,0,1685.86,1092.22,593.64,Alipay,pending,4.0
+SO-2026-0206,2026-04-25,Customer 059,Japan,Partner,Office,Standing Desk,3,3400.96,0,10202.88,6548.8,3654.08,WeChat Pay,pending,4.0
+SO-2026-0221,2026-04-27,Customer 003,United States,Mobile App,Home,Air Purifier,2,1587.49,0.2,2539.98,1632.14,907.84,WeChat Pay,shipped,4.5
+SO-2026-0233,2026-04-28,Customer 051,Australia,Mobile App,Audio,Studio Monitor Pair,1,3557.44,0,3557.44,2324.62,1232.82,Bank Transfer,completed,3.0
+SO-2026-0011,2026-05-01,Customer 023,中国,Retail,Home,Desk Lamp,1,147.83,0.1,133.05,74.63,58.42,WeChat Pay,completed,
+SO-2026-0153,2026-05-03,Customer 053,中国,Mobile App,Outdoor,Camping Tent 4P,1,929.16,0.2,743.33,388.19,355.14,Alipay,refunded,4.0
+SO-2026-0271,2026-05-03,Customer 019,中国,Web,Home,Robot Vacuum,2,2763.85,0,5527.7,3897.63,1630.07,Bank Transfer,completed,3.0
+SO-2026-0267,2026-05-04,Customer 024,Germany,Mobile App,Electronics,Mechanical Keyboard,3,554.23,0.1,1496.42,1026.0,470.42,Alipay,completed,4.0
+SO-2026-0252,2026-05-05,Customer 005,India,Partner,Outdoor,Cooler Box 20L,1,478.69,0,478.69,296.17,182.52,Credit Card,shipped,
+SO-2026-0101,2026-05-08,Customer 057,Japan,Web,Home,Desk Lamp,6,161.16,0.2,773.57,532.45,241.12,Bank Transfer,pending,
+SO-2026-0188,2026-05-10,Customer 048,Japan,Mobile App,Outdoor,Trekking Poles,1,264.35,0.15,224.7,118.8,105.9,WeChat Pay,pending,4.0
+SO-2026-0191,2026-05-12,Customer 032,中国,Partner,Electronics,"4K Monitor 27""",3,1917.08,0,5751.24,3648.67,2102.57,Alipay,completed,4.0
+SO-2026-0125,2026-05-13,Customer 027,Japan,Web,Home,Air Purifier,2,1385.83,0.05,2633.08,1553.15,1079.93,PayPal,shipped,4.5
+SO-2026-0149,2026-05-13,Customer 022,United Kingdom,Retail,Audio,Portable Speaker,2,389.17,0,778.34,540.73,237.61,Bank Transfer,completed,4.0
+SO-2026-0070,2026-05-14,Customer 016,United Kingdom,Partner,Audio,Portable Speaker,2,382.94,0,765.88,517.13,248.75,Alipay,completed,4.0
+SO-2026-0333,2026-05-14,Customer 028,United Kingdom,Mobile App,Outdoor,Camping Tent 4P,3,837.48,0,2512.44,1521.75,990.69,PayPal,completed,4.5
+SO-2026-0260,2026-05-16,Customer 024,中国,Retail,Outdoor,Trekking Poles,4,273.26,0.15,929.08,585.92,343.16,Bank Transfer,completed,4.5
+SO-2026-0254,2026-05-17,Customer 053,India,Partner,Audio,Studio Monitor Pair,6,3118.8,0.2,14970.24,10618.7,4351.54,Credit Card,pending,4.0
+SO-2026-0056,2026-05-18,Customer 009,Australia,Retail,Electronics,Mechanical Keyboard,1,645.92,0,645.92,417.58,228.34,Credit Card,completed,4.5
+SO-2026-0281,2026-05-19,Customer 043,India,Mobile App,Office,Whiteboard 90cm,1,437.76,0.2,350.21,191.61,158.6,Credit Card,completed,3.5
+SO-2026-0299,2026-05-20,Customer 021,India,Web,Audio,Portable Speaker,1,385.25,0.15,327.46,172.21,155.25,WeChat Pay,shipped,4.0
+SO-2026-0073,2026-05-21,Customer 041,Australia,Partner,Outdoor,Cooler Box 20L,2,435.5,0.05,827.45,480.2,347.25,Alipay,shipped,
+SO-2026-0099,2026-05-23,Customer 007,Australia,Mobile App,Audio,Studio Monitor Pair,1,3367.6,0.1,3030.84,2129.18,901.66,WeChat Pay,refunded,4.0
+SO-2026-0319,2026-05-23,Customer 036,United States,Mobile App,Office,Standing Desk,2,3130.76,0,6261.52,3314.31,2947.21,Credit Card,shipped,5.0
+SO-2026-0144,2026-05-24,Customer 049,India,Web,Audio,Podcast Mic,3,813.73,0.1,2197.07,1345.93,851.14,Bank Transfer,completed,4.5
+SO-2026-0222,2026-05-29,Customer 060,Japan,Mobile App,Electronics,USB-C Hub,2,202.28,0,404.56,275.62,128.94,Alipay,completed,3.5
+SO-2026-0305,2026-05-29,Customer 041,Brazil,Partner,Home,Robot Vacuum,1,2656.95,0.1,2391.26,1433.67,957.59,PayPal,completed,4.0
+SO-2026-0079,2026-05-31,Customer 018,Japan,Partner,Outdoor,Camping Tent 4P,2,875.81,0.15,1488.88,1023.33,465.55,WeChat Pay,completed,4.5
+SO-2026-0110,2026-05-31,Customer 036,Australia,Mobile App,Office,Whiteboard 90cm,3,426.65,0,1279.95,691.77,588.18,Credit Card,refunded,3.5
+SO-2026-0081,2026-06-01,Customer 005,Japan,Web,Outdoor,Cooler Box 20L,1,418.63,0,418.63,262.11,156.52,PayPal,completed,4.5
+SO-2026-0106,2026-06-01,Customer 026,United States,Partner,Audio,Portable Speaker,1,371.27,0.15,315.58,183.39,132.19,PayPal,completed,3.5
+SO-2026-0111,2026-06-04,Customer 040,United States,Partner,Audio,Studio Monitor Pair,1,3155.37,0,3155.37,1673.42,1481.95,Alipay,completed,
+SO-2026-0046,2026-06-05,Customer 031,Australia,Partner,Outdoor,Camping Tent 4P,4,900.12,0.2,2880.38,1633.72,1246.66,Credit Card,pending,
+SO-2026-0256,2026-06-05,Customer 022,United Kingdom,Partner,Office,Ergonomic Chair,3,2252.68,0,6758.04,4346.76,2411.28,Alipay,refunded,3.0
+SO-2026-0030,2026-06-07,Customer 034,United States,Retail,Office,Whiteboard 90cm,3,412.85,0,1238.55,783.48,455.07,PayPal,completed,4.5
+SO-2026-0091,2026-06-07,Customer 030,United Kingdom,Mobile App,Home,Desk Lamp,4,165.77,0.2,530.46,347.84,182.62,Bank Transfer,shipped,4.0
+SO-2026-0120,2026-06-07,Customer 033,中国,Partner,Outdoor,Cooler Box 20L,4,474.44,0.1,1707.98,1192.42,515.56,Credit Card,pending,3.5
+SO-2026-0244,2026-06-10,Customer 050,India,Partner,Electronics,Noise-Cancelling Headphones,2,1312.24,0.05,2493.26,1759.48,733.78,PayPal,shipped,4.0
+SO-2026-0060,2026-06-11,Customer 030,United States,Mobile App,Audio,Portable Speaker,4,399.49,0,1597.96,982.0,615.96,Alipay,refunded,4.5
+SO-2026-0241,2026-06-12,Customer 026,Germany,Mobile App,Office,Whiteboard 90cm,2,430.55,0,861.1,485.44,375.66,Bank Transfer,completed,3.0
+SO-2026-0129,2026-06-13,Customer 003,United States,Web,Office,Ergonomic Chair,2,2230.5,0,4461.0,2680.14,1780.86,WeChat Pay,completed,4.5
+SO-2026-0181,2026-06-13,Customer 044,Japan,Retail,Outdoor,Trekking Poles,2,257.05,0.2,411.28,219.66,191.62,Bank Transfer,completed,3.5
+SO-2026-0338,2026-06-13,Customer 006,Germany,Web,Audio,Portable Speaker,1,387.64,0,387.64,260.17,127.47,Bank Transfer,shipped,
+SO-2026-0094,2026-06-14,Customer 046,United States,Retail,Home,Air Purifier,3,1553.64,0,4660.92,2765.48,1895.44,Credit Card,shipped,5.0
+SO-2026-0022,2026-06-15,Customer 023,Japan,Web,Home,Desk Lamp,1,153.08,0,153.08,89.94,63.14,WeChat Pay,refunded,4.0
+SO-2026-0008,2026-06-16,Customer 028,United States,Mobile App,Audio,Studio Monitor Pair,1,3082.24,0.2,2465.79,1538.82,926.97,Credit Card,shipped,5.0
+SO-2026-0026,2026-06-16,Customer 016,Australia,Retail,Office,Ergonomic Chair,2,2035.33,0.15,3460.06,2382.95,1077.11,PayPal,completed,4.0
+SO-2026-0148,2026-06-16,Customer 041,India,Mobile App,Audio,Studio Monitor Pair,6,3432.73,0.15,17506.92,10253.74,7253.18,Credit Card,completed,3.0
+SO-2026-0261,2026-06-16,Customer 035,Australia,Mobile App,Outdoor,Trekking Poles,1,264.11,0,264.11,178.56,85.55,Bank Transfer,completed,4.0
+SO-2026-0042,2026-06-17,Customer 060,Germany,Partner,Electronics,Noise-Cancelling Headphones,3,1387.3,0,4161.9,2365.03,1796.87,Alipay,completed,5.0
+SO-2026-0114,2026-06-17,Customer 004,India,Partner,Office,Whiteboard 90cm,3,405.11,0.15,1033.03,622.47,410.56,Credit Card,completed,5.0
+SO-2026-0066,2026-06-18,Customer 007,United Kingdom,Mobile App,Home,Coffee Grinder,6,312.39,0,1874.34,1324.57,549.77,WeChat Pay,completed,3.5
+SO-2026-0115,2026-06-18,Customer 036,United Kingdom,Retail,Outdoor,Camping Tent 4P,1,940.25,0,940.25,629.87,310.38,Credit Card,completed,5.0
+SO-2026-0208,2026-06-18,Customer 006,Japan,Retail,Office,Standing Desk,4,3244.08,0.1,11678.69,7416.41,4262.28,Credit Card,refunded,5.0
+SO-2026-0071,2026-06-20,Customer 038,Brazil,Web,Audio,Portable Speaker,3,397.66,0,1192.98,823.51,369.47,PayPal,completed,4.0
+SO-2026-0194,2026-06-21,Customer 043,中国,Partner,Office,Ergonomic Chair,1,2115.15,0,2115.15,1261.38,853.77,Alipay,refunded,4.0
+SO-2026-0262,2026-06-22,Customer 056,India,Partner,Electronics,Noise-Cancelling Headphones,2,1335.97,0,2671.94,1534.57,1137.37,Bank Transfer,completed,3.5
+SO-2026-0147,2026-06-24,Customer 021,United Kingdom,Mobile App,Audio,Podcast Mic,1,840.7,0.05,798.66,421.14,377.52,WeChat Pay,pending,5.0
+SO-2026-0216,2026-06-24,Customer 035,Australia,Web,Audio,Podcast Mic,1,754.62,0.05,716.89,400.68,316.21,Alipay,refunded,5.0
+SO-2026-0085,2026-06-25,Customer 055,Japan,Mobile App,Electronics,USB-C Hub,2,197.61,0,395.22,230.39,164.83,PayPal,pending,3.5
+SO-2026-0058,2026-06-26,Customer 050,Australia,Web,Electronics,USB-C Hub,1,198.98,0,198.98,122.71,76.27,Alipay,completed,4.5
+SO-2026-0113,2026-06-27,Customer 016,Australia,Retail,Home,Coffee Grinder,2,346.56,0.15,589.15,412.99,176.16,WeChat Pay,completed,5.0
+SO-2026-0292,2026-06-29,Customer 009,India,Retail,Electronics,Mechanical Keyboard,1,590.89,0.05,561.35,332.7,228.65,WeChat Pay,completed,4.0
+SO-2026-0134,2026-06-30,Customer 013,United Kingdom,Retail,Audio,Podcast Mic,1,833.84,0.1,750.46,430.68,319.78,Bank Transfer,completed,3.5
+SO-2026-0199,2026-06-30,Customer 008,Brazil,Mobile App,Home,Air Purifier,1,1415.72,0,1415.72,831.04,584.68,Alipay,completed,4.0
+SO-2026-0283,2026-06-30,Customer 039,United States,Mobile App,Home,Air Purifier,2,1380.0,0.2,2208.0,1225.22,982.78,Alipay,refunded,4.5
+SO-2026-0193,2026-07-01,Customer 046,Germany,Retail,Home,Coffee Grinder,6,342.1,0,2052.6,1205.3,847.3,Alipay,completed,4.5
+SO-2026-0205,2026-07-02,Customer 014,Germany,Retail,Audio,Portable Speaker,6,400.69,0,2404.14,1425.93,978.21,PayPal,pending,5.0
+SO-2026-0320,2026-07-03,Customer 039,Germany,Retail,Home,Desk Lamp,2,158.57,0.2,253.71,156.44,97.27,Bank Transfer,shipped,5.0
+SO-2026-0010,2026-07-04,Customer 043,中国,Mobile App,Outdoor,Trekking Poles,1,253.1,0,253.1,164.57,88.53,PayPal,refunded,4.0
+SO-2026-0266,2026-07-04,Customer 010,Brazil,Mobile App,Outdoor,Camping Tent 4P,1,870.38,0,870.38,489.81,380.57,Alipay,pending,
+SO-2026-0291,2026-07-04,Customer 006,United States,Partner,Electronics,Mechanical Keyboard,1,607.09,0.15,516.03,281.1,234.93,Bank Transfer,completed,5.0
+SO-2026-0072,2026-07-06,Customer 015,Germany,Partner,Electronics,Mechanical Keyboard,1,605.79,0.15,514.92,335.2,179.72,Alipay,refunded,4.0
+SO-2026-0141,2026-07-06,Customer 019,India,Retail,Electronics,Mechanical Keyboard,3,552.3,0,1656.9,1074.81,582.09,Credit Card,completed,
+SO-2026-0237,2026-07-06,Customer 021,India,Partner,Audio,Studio Monitor Pair,1,3479.6,0.1,3131.64,2170.04,961.6,PayPal,completed,4.5
+SO-2026-0306,2026-07-07,Customer 010,India,Partner,Office,Standing Desk,4,3521.84,0,14087.36,8237.99,5849.37,Credit Card,completed,4.5
+SO-2026-0176,2026-07-08,Customer 035,Brazil,Web,Outdoor,Trekking Poles,1,270.06,0.2,216.05,127.49,88.56,Bank Transfer,completed,5.0
+SO-2026-0213,2026-07-08,Customer 050,United Kingdom,Web,Audio,Studio Monitor Pair,1,3517.87,0,3517.87,2316.4,1201.47,Credit Card,completed,4.0
+SO-2026-0029,2026-07-09,Customer 022,中国,Mobile App,Home,Air Purifier,1,1388.5,0.2,1110.8,778.85,331.95,Bank Transfer,refunded,3.5
+SO-2026-0051,2026-07-10,Customer 032,Australia,Web,Electronics,USB-C Hub,4,180.81,0.2,578.59,368.51,210.08,PayPal,completed,4.5
+SO-2026-0050,2026-07-11,Customer 045,中国,Retail,Office,Ergonomic Chair,1,2340.38,0.05,2223.36,1213.65,1009.71,PayPal,refunded,4.5
+SO-2026-0138,2026-07-11,Customer 032,Japan,Mobile App,Office,Ergonomic Chair,1,2222.6,0.05,2111.47,1340.06,771.41,WeChat Pay,completed,4.5
+SO-2026-0059,2026-07-12,Customer 003,Brazil,Web,Outdoor,Cooler Box 20L,4,429.61,0.15,1460.67,831.02,629.65,PayPal,completed,3.0
+SO-2026-0265,2026-07-13,Customer 038,United States,Retail,Home,Robot Vacuum,4,2615.86,0,10463.44,6836.78,3626.66,Bank Transfer,shipped,3.5
+SO-2026-0013,2026-07-15,Customer 018,United Kingdom,Retail,Home,Desk Lamp,1,157.73,0.15,134.07,77.43,56.64,Bank Transfer,completed,4.5
+SO-2026-0088,2026-07-17,Customer 049,United States,Partner,Office,Whiteboard 90cm,6,427.39,0.1,2307.91,1422.65,885.26,Credit Card,completed,4.5
+SO-2026-0089,2026-07-18,Customer 021,中国,Web,Electronics,"4K Monitor 27""",6,2016.65,0.2,9679.92,6600.89,3079.03,WeChat Pay,completed,5.0
+SO-2026-0112,2026-07-18,Customer 010,中国,Partner,Home,Desk Lamp,1,153.49,0,153.49,95.77,57.72,Bank Transfer,pending,3.5
+SO-2026-0282,2026-07-18,Customer 058,Australia,Web,Outdoor,Trekking Poles,4,268.01,0,1072.04,713.58,358.46,Credit Card,pending,4.5
+SO-2026-0037,2026-07-19,Customer 002,Brazil,Retail,Outdoor,Camping Tent 4P,2,929.95,0.15,1580.91,946.22,634.69,Alipay,pending,3.5
+SO-2026-0275,2026-07-21,Customer 031,Australia,Mobile App,Outdoor,Cooler Box 20L,2,425.41,0,850.82,479.17,371.65,Bank Transfer,pending,
+SO-2026-0107,2026-07-22,Customer 016,Brazil,Retail,Office,Ergonomic Chair,4,2150.08,0,8600.32,5359.78,3240.54,Alipay,shipped,4.0
+SO-2026-0218,2026-07-23,Customer 036,Germany,Web,Home,Air Purifier,1,1397.79,0.05,1327.9,823.77,504.13,WeChat Pay,pending,4.0
+SO-2026-0121,2026-07-24,Customer 060,中国,Mobile App,Electronics,"4K Monitor 27""",2,1906.85,0,3813.7,2309.08,1504.62,WeChat Pay,completed,4.5
+SO-2026-0277,2026-07-24,Customer 021,Japan,Partner,Electronics,Noise-Cancelling Headphones,1,1322.29,0.05,1256.18,790.34,465.84,Alipay,refunded,3.0
+SO-2026-0230,2026-07-25,Customer 013,Brazil,Partner,Outdoor,Camping Tent 4P,1,912.05,0.2,729.64,501.26,228.38,Alipay,completed,4.0
+SO-2026-0170,2026-07-27,Customer 012,India,Retail,Home,Desk Lamp,1,162.65,0.2,130.12,79.75,50.37,WeChat Pay,pending,3.0
+SO-2026-0248,2026-07-30,Customer 052,Germany,Retail,Outdoor,Cooler Box 20L,1,431.86,0,431.86,264.43,167.43,Credit Card,refunded,4.5
+SO-2026-0169,2026-07-31,Customer 052,United States,Retail,Audio,Studio Monitor Pair,1,3272.24,0,3272.24,2175.73,1096.51,PayPal,completed,4.5
+SO-2026-0025,2026-08-01,Customer 010,United Kingdom,Mobile App,Electronics,Noise-Cancelling Headphones,2,1353.07,0,2706.14,1476.71,1229.43,Alipay,completed,4.0
+SO-2026-0033,2026-08-02,Customer 011,Brazil,Retail,Office,Whiteboard 90cm,1,416.94,0.2,333.55,229.93,103.62,Bank Transfer,shipped,4.5
+SO-2026-0174,2026-08-02,Customer 004,Germany,Mobile App,Home,Robot Vacuum,1,2735.25,0.1,2461.72,1530.23,931.49,Credit Card,pending,4.5
+SO-2026-0190,2026-08-02,Customer 038,中国,Retail,Audio,Portable Speaker,1,409.61,0.05,389.13,260.62,128.51,Alipay,pending,4.0
+SO-2026-0062,2026-08-03,Customer 045,United States,Web,Electronics,USB-C Hub,2,202.64,0,405.28,249.84,155.44,Alipay,completed,4.5
+SO-2026-0189,2026-08-03,Customer 011,中国,Mobile App,Office,Ergonomic Chair,4,2196.13,0,8784.52,4797.27,3987.25,Credit Card,refunded,5.0
+SO-2026-0328,2026-08-04,Customer 022,United States,Mobile App,Home,Coffee Grinder,1,347.84,0.2,278.27,156.38,121.89,PayPal,completed,3.0
+SO-2026-0018,2026-08-05,Customer 012,Brazil,Mobile App,Electronics,Mechanical Keyboard,3,576.85,0.05,1644.02,1056.33,587.69,WeChat Pay,completed,
+SO-2026-0156,2026-08-05,Customer 006,India,Mobile App,Outdoor,Camping Tent 4P,1,961.85,0,961.85,599.17,362.68,Credit Card,completed,3.5
+SO-2026-0184,2026-08-05,Customer 015,Japan,Retail,Home,Robot Vacuum,1,2869.38,0.15,2438.97,1439.24,999.73,Credit Card,completed,3.5
+SO-2026-0255,2026-08-05,Customer 060,Australia,Retail,Office,Standing Desk,6,3098.07,0.15,15800.16,10276.57,5523.59,PayPal,refunded,3.5
+SO-2026-0339,2026-08-06,Customer 016,中国,Mobile App,Office,Standing Desk,1,3513.91,0.2,2811.13,1968.3,842.83,Credit Card,completed,5.0
+SO-2026-0124,2026-08-07,Customer 018,中国,Partner,Audio,Portable Speaker,6,371.99,0.15,1897.15,1104.35,792.8,Bank Transfer,refunded,
+SO-2026-0132,2026-08-07,Customer 058,Japan,Retail,Outdoor,Cooler Box 20L,2,469.05,0.2,750.48,485.33,265.15,Alipay,shipped,4.5
+SO-2026-0332,2026-08-07,Customer 031,Brazil,Retail,Outdoor,Trekking Poles,3,277.96,0,833.88,502.02,331.86,WeChat Pay,shipped,3.0
+SO-2026-0229,2026-08-08,Customer 005,中国,Retail,Home,Coffee Grinder,2,353.67,0.15,601.24,327.15,274.09,Alipay,shipped,3.0
+SO-2026-0135,2026-08-10,Customer 024,Germany,Retail,Electronics,"4K Monitor 27""",3,1968.84,0,5906.52,3571.8,2334.72,Alipay,completed,3.5
+SO-2026-0264,2026-08-10,Customer 005,United Kingdom,Mobile App,Outdoor,Camping Tent 4P,1,842.2,0.1,757.98,410.81,347.17,Bank Transfer,pending,
+SO-2026-0198,2026-08-12,Customer 039,中国,Retail,Audio,Podcast Mic,1,766.15,0.2,612.92,337.99,274.93,Bank Transfer,refunded,4.0
+SO-2026-0077,2026-08-15,Customer 045,Japan,Retail,Office,Whiteboard 90cm,2,395.85,0.2,633.36,347.03,286.33,PayPal,completed,4.0
+SO-2026-0318,2026-08-17,Customer 035,India,Web,Electronics,"4K Monitor 27""",1,1763.97,0.2,1411.18,826.51,584.67,WeChat Pay,shipped,4.5
+SO-2026-0127,2026-08-19,Customer 059,Australia,Web,Home,Robot Vacuum,4,2553.44,0.2,8171.01,4294.81,3876.2,Credit Card,completed,4.0
+SO-2026-0154,2026-08-19,Customer 042,Japan,Web,Office,Ergonomic Chair,2,2340.31,0,4680.62,3005.01,1675.61,PayPal,refunded,
+SO-2026-0136,2026-08-21,Customer 039,United States,Partner,Home,Coffee Grinder,2,324.66,0,649.32,446.58,202.74,Credit Card,pending,4.0
+SO-2026-0102,2026-08-23,Customer 014,Australia,Partner,Electronics,USB-C Hub,2,175.89,0.2,281.42,179.26,102.16,Alipay,shipped,4.5
+SO-2026-0098,2026-08-24,Customer 048,Japan,Web,Audio,Portable Speaker,4,384.76,0.15,1308.18,777.45,530.73,WeChat Pay,completed,4.0
+SO-2026-0274,2026-08-25,Customer 044,United States,Mobile App,Electronics,USB-C Hub,1,196.34,0.15,166.89,91.68,75.21,Bank Transfer,refunded,3.0
+SO-2026-0017,2026-08-27,Customer 024,中国,Retail,Office,Ergonomic Chair,2,2164.28,0,4328.56,2909.59,1418.97,Bank Transfer,completed,4.0
+SO-2026-0119,2026-08-27,Customer 011,United Kingdom,Mobile App,Outdoor,Trekking Poles,1,262.52,0.2,210.02,146.76,63.26,Alipay,refunded,3.5
+SO-2026-0179,2026-08-27,Customer 030,United Kingdom,Web,Electronics,USB-C Hub,2,176.55,0.15,300.13,211.7,88.43,Bank Transfer,completed,3.0
+SO-2026-0095,2026-08-28,Customer 029,中国,Partner,Office,Whiteboard 90cm,1,457.67,0.2,366.14,227.2,138.94,Bank Transfer,completed,
+SO-2026-0155,2026-08-29,Customer 039,Brazil,Retail,Audio,Portable Speaker,4,423.06,0.05,1607.63,1007.42,600.21,Alipay,completed,4.0
+SO-2026-0093,2026-09-02,Customer 009,Germany,Mobile App,Audio,Podcast Mic,6,842.46,0.15,4296.55,2752.52,1544.03,PayPal,shipped,3.5
+SO-2026-0162,2026-09-02,Customer 001,Germany,Retail,Audio,Portable Speaker,1,397.76,0.05,377.87,198.42,179.45,WeChat Pay,pending,4.5
+SO-2026-0028,2026-09-03,Customer 057,United States,Mobile App,Electronics,Noise-Cancelling Headphones,1,1237.26,0.15,1051.67,555.46,496.21,PayPal,pending,4.0
+SO-2026-0311,2026-09-04,Customer 002,Japan,Retail,Audio,Studio Monitor Pair,1,3254.22,0.1,2928.8,1902.78,1026.02,Alipay,completed,4.0
+SO-2026-0041,2026-09-05,Customer 024,United Kingdom,Retail,Office,Standing Desk,2,3543.8,0,7087.6,4909.05,2178.55,Credit Card,shipped,4.5
+SO-2026-0063,2026-09-06,Customer 054,Germany,Web,Home,Desk Lamp,4,162.27,0.15,551.72,336.94,214.78,Bank Transfer,pending,4.0
+SO-2026-0280,2026-09-06,Customer 030,United States,Mobile App,Home,Coffee Grinder,1,345.11,0.1,310.6,197.96,112.64,Credit Card,refunded,3.5
+SO-2026-0273,2026-09-07,Customer 026,United States,Partner,Audio,Portable Speaker,1,399.09,0.1,359.18,210.14,149.04,Alipay,completed,4.5
+SO-2026-0080,2026-09-09,Customer 024,India,Web,Electronics,"4K Monitor 27""",6,1899.42,0.1,10256.87,6735.82,3521.05,PayPal,refunded,4.5
+SO-2026-0131,2026-09-09,Customer 048,中国,Web,Office,Whiteboard 90cm,4,442.99,0,1771.96,1010.92,761.04,PayPal,refunded,4.5
+SO-2026-0209,2026-09-09,Customer 045,Brazil,Retail,Audio,Podcast Mic,4,809.32,0.15,2751.69,1432.66,1319.03,Credit Card,shipped,5.0
+SO-2026-0243,2026-09-10,Customer 044,中国,Web,Outdoor,Camping Tent 4P,2,838.42,0.2,1341.47,875.35,466.12,PayPal,completed,3.0
+SO-2026-0258,2026-09-10,Customer 027,Brazil,Web,Outdoor,Cooler Box 20L,3,435.24,0,1305.72,683.12,622.6,WeChat Pay,pending,
+SO-2026-0239,2026-09-11,Customer 044,中国,Retail,Electronics,Mechanical Keyboard,1,564.89,0.1,508.4,270.68,237.72,PayPal,completed,4.0
+SO-2026-0335,2026-09-11,Customer 017,Australia,Web,Home,Air Purifier,4,1382.53,0,5530.12,3414.51,2115.61,Credit Card,shipped,
+SO-2026-0039,2026-09-13,Customer 017,Germany,Web,Audio,Studio Monitor Pair,1,3209.92,0,3209.92,1699.31,1510.61,WeChat Pay,completed,
+SO-2026-0164,2026-09-14,Customer 007,United States,Retail,Outdoor,Trekking Poles,1,276.65,0,276.65,163.53,113.12,Alipay,completed,4.0
+SO-2026-0171,2026-09-14,Customer 022,Germany,Mobile App,Electronics,"4K Monitor 27""",2,1953.56,0.05,3711.76,2046.78,1664.98,Bank Transfer,shipped,4.5
+SO-2026-0128,2026-09-15,Customer 038,Brazil,Partner,Outdoor,Trekking Poles,1,256.48,0.1,230.83,140.47,90.36,PayPal,shipped,4.0
+SO-2026-0294,2026-09-15,Customer 007,United Kingdom,Web,Outdoor,Cooler Box 20L,1,421.25,0.15,358.06,228.68,129.38,PayPal,refunded,4.5
+SO-2026-0083,2026-09-16,Customer 027,India,Mobile App,Audio,Portable Speaker,6,403.87,0.2,1938.58,1016.96,921.62,Credit Card,completed,4.5
+SO-2026-0195,2026-09-17,Customer 019,Japan,Web,Home,Coffee Grinder,1,331.22,0,331.22,225.62,105.6,Bank Transfer,completed,4.5
+SO-2026-0312,2026-09-17,Customer 019,Brazil,Retail,Office,Ergonomic Chair,1,2156.84,0.1,1941.16,1258.69,682.47,PayPal,completed,4.0
+SO-2026-0047,2026-09-18,Customer 043,United Kingdom,Partner,Electronics,Mechanical Keyboard,1,628.02,0,628.02,441.95,186.07,Alipay,shipped,4.5
+SO-2026-0103,2026-09-18,Customer 019,India,Partner,Outdoor,Trekking Poles,1,243.25,0,243.25,150.31,92.94,Bank Transfer,completed,3.5
+SO-2026-0157,2026-09-19,Customer 026,中国,Retail,Outdoor,Cooler Box 20L,1,437.67,0,437.67,256.93,180.74,WeChat Pay,shipped,4.0
+SO-2026-0086,2026-09-20,Customer 019,Australia,Mobile App,Office,Ergonomic Chair,6,2338.07,0,14028.42,9739.6,4288.82,WeChat Pay,completed,4.0
+SO-2026-0269,2026-09-22,Customer 044,India,Partner,Electronics,USB-C Hub,4,196.6,0.1,707.76,435.81,271.95,Alipay,completed,4.0
+SO-2026-0043,2026-09-24,Customer 027,中国,Retail,Home,Desk Lamp,1,162.89,0,162.89,106.01,56.88,WeChat Pay,pending,4.0
+SO-2026-0075,2026-09-24,Customer 019,Brazil,Retail,Outdoor,Camping Tent 4P,1,831.96,0,831.96,486.1,345.86,Credit Card,completed,5.0
+SO-2026-0224,2026-09-24,Customer 033,India,Web,Office,Ergonomic Chair,1,2278.55,0.1,2050.7,1236.11,814.59,WeChat Pay,completed,4.5
+SO-2026-0084,2026-09-27,Customer 036,Brazil,Mobile App,Outdoor,Cooler Box 20L,3,460.08,0.05,1311.23,889.65,421.58,Bank Transfer,completed,3.5
+SO-2026-0185,2026-09-27,Customer 031,United States,Web,Outdoor,Trekking Poles,1,241.05,0.1,216.95,140.04,76.91,Alipay,shipped,5.0
+SO-2026-0003,2026-09-28,Customer 044,Brazil,Partner,Outdoor,Cooler Box 20L,1,445.41,0.15,378.6,220.09,158.51,Alipay,pending,4.5
+SO-2026-0177,2026-09-29,Customer 026,Australia,Retail,Outdoor,Trekking Poles,2,247.77,0.05,470.76,297.13,173.63,WeChat Pay,shipped,4.0
+SO-2026-0160,2026-09-30,Customer 043,中国,Web,Outdoor,Cooler Box 20L,2,473.46,0.2,757.54,447.12,310.42,Bank Transfer,completed,3.5
+SO-2026-0257,2026-10-01,Customer 010,Japan,Retail,Audio,Portable Speaker,6,417.16,0.2,2002.37,1077.92,924.45,Alipay,shipped,3.0
+SO-2026-0316,2026-10-01,Customer 011,中国,Partner,Audio,Podcast Mic,1,802.78,0,802.78,476.15,326.63,Credit Card,pending,4.5
+SO-2026-0182,2026-10-04,Customer 014,Germany,Retail,Outdoor,Cooler Box 20L,1,467.51,0.2,374.01,235.04,138.97,Bank Transfer,shipped,4.0
+SO-2026-0297,2026-10-04,Customer 035,Australia,Web,Outdoor,Camping Tent 4P,6,955.66,0.15,4873.87,3177.11,1696.76,PayPal,pending,4.5
+SO-2026-0168,2026-10-06,Customer 005,Japan,Web,Home,Robot Vacuum,1,2691.36,0,2691.36,1670.64,1020.72,WeChat Pay,pending,
+SO-2026-0295,2026-10-09,Customer 037,United States,Partner,Audio,Studio Monitor Pair,2,3129.35,0,6258.7,3265.95,2992.75,PayPal,refunded,3.0
+SO-2026-0289,2026-10-11,Customer 016,United States,Web,Audio,Podcast Mic,1,781.73,0.15,664.47,351.21,313.26,WeChat Pay,pending,4.5
+SO-2026-0325,2026-10-11,Customer 048,Germany,Partner,Audio,Studio Monitor Pair,1,3125.2,0.15,2656.42,1879.23,777.19,PayPal,shipped,4.5
+SO-2026-0007,2026-10-13,Customer 017,United Kingdom,Retail,Outdoor,Trekking Poles,1,266.09,0.15,226.18,137.72,88.46,Alipay,pending,3.0
+SO-2026-0146,2026-10-13,Customer 014,Brazil,Web,Office,Ergonomic Chair,6,2335.72,0,14014.32,8198.02,5816.3,PayPal,pending,3.0
+SO-2026-0310,2026-10-13,Customer 016,United Kingdom,Web,Office,Ergonomic Chair,1,2141.72,0.2,1713.38,1074.95,638.43,Bank Transfer,refunded,4.5
+SO-2026-0067,2026-10-14,Customer 058,Brazil,Mobile App,Outdoor,Cooler Box 20L,3,419.7,0,1259.1,889.81,369.29,WeChat Pay,pending,4.0
+SO-2026-0314,2026-10-14,Customer 056,United Kingdom,Mobile App,Audio,Studio Monitor Pair,6,3321.63,0,19929.78,10771.44,9158.34,PayPal,shipped,4.5
+SO-2026-0002,2026-10-15,Customer 035,India,Partner,Electronics,"4K Monitor 27""",6,1835.65,0,11013.9,7310.48,3703.42,Credit Card,completed,4.5
+SO-2026-0140,2026-10-15,Customer 029,Brazil,Partner,Home,Robot Vacuum,2,2769.95,0,5539.9,3542.73,1997.17,PayPal,shipped,3.5
+SO-2026-0302,2026-10-16,Customer 021,Germany,Web,Electronics,Mechanical Keyboard,6,623.9,0,3743.4,1968.88,1774.52,Bank Transfer,completed,4.0
+SO-2026-0186,2026-10-18,Customer 035,Germany,Web,Outdoor,Camping Tent 4P,3,939.73,0,2819.19,1538.04,1281.15,Bank Transfer,shipped,
+SO-2026-0201,2026-10-19,Customer 052,Germany,Mobile App,Outdoor,Trekking Poles,2,258.9,0.1,466.02,327.01,139.01,Credit Card,completed,4.5
+SO-2026-0323,2026-10-19,Customer 006,Germany,Partner,Electronics,USB-C Hub,2,187.01,0.05,355.32,245.76,109.56,PayPal,completed,4.0
+SO-2026-0234,2026-10-22,Customer 017,India,Web,Electronics,USB-C Hub,2,198.96,0,397.92,266.71,131.21,Alipay,shipped,
+SO-2026-0212,2026-10-23,Customer 031,India,Web,Home,Air Purifier,3,1506.86,0.05,4294.55,3010.09,1284.46,Credit Card,refunded,
+SO-2026-0225,2026-10-23,Customer 047,Japan,Retail,Electronics,USB-C Hub,6,202.93,0.2,974.06,563.51,410.55,Credit Card,refunded,4.0
+SO-2026-0166,2026-10-24,Customer 046,中国,Retail,Outdoor,Camping Tent 4P,2,953.8,0,1907.6,1160.76,746.84,Credit Card,shipped,4.5
+SO-2026-0178,2026-10-24,Customer 018,India,Web,Electronics,Mechanical Keyboard,2,634.03,0,1268.06,779.36,488.7,PayPal,completed,4.5
+SO-2026-0204,2026-10-24,Customer 029,Australia,Retail,Outdoor,Camping Tent 4P,2,908.68,0.1,1635.62,994.05,641.57,Alipay,completed,3.0
+SO-2026-0196,2026-10-25,Customer 013,Japan,Retail,Outdoor,Camping Tent 4P,6,873.48,0,5240.88,2899.31,2341.57,WeChat Pay,pending,4.0
+SO-2026-0288,2026-10-26,Customer 040,Germany,Retail,Electronics,USB-C Hub,1,177.56,0,177.56,117.27,60.29,PayPal,refunded,4.5
+SO-2026-0334,2026-10-27,Customer 034,India,Web,Home,Air Purifier,1,1453.57,0,1453.57,818.47,635.1,Bank Transfer,completed,3.5
+SO-2026-0038,2026-10-29,Customer 027,United Kingdom,Mobile App,Home,Coffee Grinder,2,309.28,0.15,525.78,350.68,175.1,PayPal,shipped,4.0
+SO-2026-0015,2026-10-31,Customer 022,Australia,Mobile App,Home,Coffee Grinder,2,331.6,0,663.2,448.1,215.1,Alipay,shipped,4.0
+SO-2026-0023,2026-10-31,Customer 025,United Kingdom,Web,Home,Desk Lamp,6,162.99,0,977.94,646.5,331.44,Alipay,completed,4.0
+SO-2026-0048,2026-10-31,Customer 008,India,Retail,Outdoor,Camping Tent 4P,2,944.02,0.15,1604.83,1074.95,529.88,Alipay,refunded,5.0
+SO-2026-0100,2026-10-31,Customer 009,Germany,Web,Home,Air Purifier,2,1592.77,0.2,2548.43,1418.88,1129.55,Credit Card,refunded,5.0
+SO-2026-0012,2026-11-01,Customer 037,Germany,Partner,Outdoor,Camping Tent 4P,1,870.73,0.1,783.66,448.25,335.41,PayPal,completed,4.5
+SO-2026-0217,2026-11-02,Customer 012,United States,Mobile App,Electronics,"4K Monitor 27""",1,1968.32,0.15,1673.07,942.09,730.98,WeChat Pay,refunded,3.0
+SO-2026-0215,2026-11-03,Customer 040,United Kingdom,Retail,Electronics,USB-C Hub,1,194.32,0,194.32,108.57,85.75,Bank Transfer,completed,4.0
+SO-2026-0024,2026-11-06,Customer 011,India,Mobile App,Office,Ergonomic Chair,2,2317.87,0,4635.74,3055.25,1580.49,PayPal,pending,5.0
+SO-2026-0165,2026-11-06,Customer 035,Brazil,Retail,Outdoor,Camping Tent 4P,2,968.55,0,1937.1,1055.13,881.97,WeChat Pay,completed,5.0
+SO-2026-0203,2026-11-06,Customer 036,Australia,Retail,Home,Robot Vacuum,6,2879.24,0,17275.44,10663.44,6612.0,WeChat Pay,completed,
+SO-2026-0005,2026-11-08,Customer 013,Australia,Retail,Audio,Portable Speaker,4,380.46,0.2,1217.47,677.52,539.95,PayPal,refunded,3.0
+SO-2026-0330,2026-11-09,Customer 007,Germany,Retail,Home,Air Purifier,2,1425.59,0.2,2280.94,1207.01,1073.93,PayPal,completed,4.5
+SO-2026-0240,2026-11-10,Customer 003,Germany,Web,Electronics,"4K Monitor 27""",2,1849.5,0,3699.0,2392.69,1306.31,Credit Card,refunded,3.0
+SO-2026-0019,2026-11-11,Customer 016,Australia,Mobile App,Office,Standing Desk,6,3478.5,0.05,19827.45,11284.11,8543.34,Bank Transfer,refunded,4.5
+SO-2026-0020,2026-11-12,Customer 011,United Kingdom,Web,Audio,Podcast Mic,2,789.81,0.2,1263.7,714.59,549.11,Bank Transfer,shipped,4.0
+SO-2026-0223,2026-11-12,Customer 024,India,Web,Outdoor,Trekking Poles,1,255.34,0.05,242.57,160.37,82.2,Alipay,pending,
+SO-2026-0065,2026-11-13,Customer 017,United States,Retail,Audio,Podcast Mic,2,769.02,0.2,1230.43,683.06,547.37,Credit Card,pending,5.0
+SO-2026-0118,2026-11-13,Customer 044,Germany,Web,Electronics,Mechanical Keyboard,1,613.21,0,613.21,332.9,280.31,Bank Transfer,completed,
+SO-2026-0227,2026-11-14,Customer 055,Japan,Retail,Home,Coffee Grinder,1,310.61,0.1,279.55,153.31,126.24,Credit Card,shipped,4.5
+SO-2026-0259,2026-11-14,Customer 021,United States,Web,Home,Desk Lamp,2,164.16,0.15,279.07,184.66,94.41,PayPal,refunded,4.0
+SO-2026-0298,2026-11-14,Customer 002,United States,Retail,Outdoor,Cooler Box 20L,2,421.71,0,843.42,466.75,376.67,PayPal,pending,5.0
+SO-2026-0082,2026-11-16,Customer 059,India,Retail,Outdoor,Trekking Poles,3,270.61,0.05,771.24,480.9,290.34,Credit Card,pending,
+SO-2026-0228,2026-11-17,Customer 016,India,Web,Office,Ergonomic Chair,2,2343.22,0,4686.44,2556.8,2129.64,WeChat Pay,completed,4.5
+SO-2026-0263,2026-11-18,Customer 014,中国,Mobile App,Outdoor,Camping Tent 4P,4,888.77,0.1,3199.57,1904.2,1295.37,Alipay,completed,4.5
+SO-2026-0068,2026-11-19,Customer 003,Australia,Partner,Outdoor,Trekking Poles,4,245.38,0.1,883.37,505.81,377.56,Bank Transfer,completed,4.0
+SO-2026-0242,2026-11-20,Customer 007,India,Retail,Home,Air Purifier,1,1548.59,0,1548.59,896.56,652.03,Bank Transfer,completed,4.0
